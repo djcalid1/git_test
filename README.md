@@ -1,2 +1,2 @@
-# git_test
-# git_test
+This is Dakotas first git project! Wahoo!
+
